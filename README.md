@@ -2,15 +2,6 @@
 ## Overview:
 The project involved analyzing the trends in life expectancy and GDP of six countries from the year 2000 to 2015. The data used for this analysis was already clean and didn't require preparation. The main objectives were to visualize the trends using Python libraries (Matplotlib and Seaborn), examine relationships between variables, and calculate key statistics to gain insights into the data.
 
-In this project, we will visualize data on GDP and life expectancy from the World Health Organization and the World Bank to try and identify the relationship between the GDP and life expectancy of six countries.
-
-The dataset is saved as a csv file named 'all_data.csv'. The data includes:
-
-    Country: the name of the nation
-    Year: the year the data was taken
-    life expectancy at birth (years): the amount of years a person can expect to live in years
-    GDP: the gross domestic product of the nation
-
 ## Steps Taken:
 
 1. Data Inspection:
